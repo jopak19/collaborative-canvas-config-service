@@ -32,9 +32,9 @@ services:
       - topicos-network
     environment:
       - TZ=America/Fortaleza
-      - POSTGRES_PASSWORD=canva
+      - POSTGRES_PASSWORD=canva123
       - POSTGRES_USER=canva
-      - POSTGRES_DB=canva123
+      - POSTGRES_DB=canva
     restart: always
 
   redis:
