@@ -34,3 +34,4 @@ build/
 redis_data/
 postgres-canvas/
 postgres-player/
+rabbitmq_data/
